@@ -43,5 +43,5 @@ Bobby = BankAccount("Bobby","Kennedy","robert.kennedy@attorneygeneral.gov",10000
 Lyndon = BankAccount("Lyndon","Johnson","lyndon.johnson@whitehouse.gov",500000)
 John = BankAccount("John","Kennedy","john.kennedy@whitehouse.gov",750000)
 User = BankAccount (.03, 500)
-User.deposit(50).withdraw(100).display_account_info().yield_interest()
+Robert.deposit(50).withdraw(100).display_account_info().yield_interest()
 print (User.balance)
